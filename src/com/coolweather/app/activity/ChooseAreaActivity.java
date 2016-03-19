@@ -259,11 +259,11 @@ public class ChooseAreaActivity extends Activity{
 			}
 			finish();
 		}
-		String out;
+		/*String out;
 		if(isFromWeatherActivity == true)
 			out = "true";
 		else
 			out ="false";
-		Log.d("ChooseAreaActivity", out);
+		Log.d("ChooseAreaActivity", out);*/
 	}
 }
